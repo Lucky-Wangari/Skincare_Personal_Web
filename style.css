@@ -1,0 +1,90 @@
+.first{
+    text-align: center;
+    background-color: rgb(236, 174, 119);
+    padding: 2px 0 2px 0;
+}
+.two{
+    /* border: solid 1px red; */
+    width: 100%;
+    padding: 10px 0 10px 0;
+}
+.nav > a{
+    text-decoration: none;
+    margin-top: 5%;
+    margin-bottom: 5%;   
+}
+.three{
+    width: 100%;
+    display: flex;
+    line-height: 1em;
+
+}
+#cleanse{
+    width: 100%;
+    height: 69%;
+}
+
+.mini{
+    margin-left: 10%;
+}
+#without{
+    font-size: 29px;
+    font-weight: bolder;
+}
+#price{
+    font-size: 60px;
+    font-weight: bolder;
+}
+.four{
+    width: 60%;
+    /* border: solid 2px yellow; */
+
+}
+.luxury{
+    /* border: solid 2px green; */
+    width: 40%;
+    text-align: center;
+    margin-bottom: 20%;
+}
+#skin{
+    font-size: 60px;
+    font-weight: 300;
+    margin-top: 20%;
+}
+#skin{
+    font-weight: bolder;
+}
+.smaller{
+    /* border: solid 2px orange; */
+    margin: 20% 0;
+}
+#without{
+    top: -20%;
+}
+#coco{
+    font-size: 30px;
+    font-weight: bolder;
+    color: black;
+    padding-right: 250px;
+    
+}
+#shop{
+    padding-right: 40px;
+    color: black;
+}
+#dola{
+     font-size: medium;
+     font-weight: bolder;
+}
+#button{
+    background-color: black;
+    color: white;
+    font-size: large;
+    padding: 4px 25px 4px 25px;
+}
+#icon{
+    padding-right: 20px;
+}
+#line2{
+    border: solid 2px;
+}
